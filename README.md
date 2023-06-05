@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trashikagoyal
 - 👀 I’m interested in coding.
-- 🌱 I’m skilled in Java, DSA, OOPS. I also have basic knowledge in C,Python,Sql.
+- 🌱 I’m skilled in Java, DSA, OOPS. I also have basic knowledge in C,Python,Sql. I am currently learning html,css,node.js
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me : mail me at trashikagoyal@gmail.com
 
