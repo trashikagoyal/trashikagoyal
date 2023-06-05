@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @trashikagoyal
-- 👀 I’m interested in coding, painting, calligraphy and dancing.
-- 🌱 I’m currently learning c.
-     I know java.
+- 👀 I’m interested in coding.
+- 🌱 I’m skilled in Java, DSA, OOPS. I also have basic knowledge in C,Python,Sql.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me : mail me at trashikagoyal@gmail.com
 
