@@ -17,8 +17,6 @@ in
 
 - 🔭 I’m currently working on **Movie Streaming Website**
 
-- 🌱 I’m currently learning **PostgreSQL**
-
 - 👨‍💻 All of my projects are available at [https://trashikagoyal.github.io/Portfolio/](https://trashikagoyal.github.io/Portfolio/)
 
 - 💬 Ask me about **DSA & MERN Stack Development**
